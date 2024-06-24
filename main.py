@@ -77,5 +77,4 @@ while running:
     dis.blit(red_cube, red_cube_rect)
     pygame.display.update()
     clock.tick(10)
-
 pygame.quit()
